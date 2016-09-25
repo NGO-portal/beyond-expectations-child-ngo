@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Project-Id-Version: Beyond Expectations\n"
+"POT-Creation-Date: 2016-08-10 13:20+0200\n"
+"PO-Revision-Date: 2016-08-10 13:49+0200\n"
+"Language-Team: Samer Hamish <e.samerhamish@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Samer <e.samerhamish@gmail.com>\n"
+"Language: ar\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "تعليق"
+msgstr[1] "تعليق واحد"
+msgstr[2] "تعليقان"
+msgstr[3] "%1$s  تعليقات"
+msgstr[4] "%1$s  تعليق"
+msgstr[5] "%1$s  تعليق"
+
+#: comments.php:46
+msgid "Older Comments"
+msgstr "التعليقات الاقدم"
+
+#: comments.php:47
+msgid "Newer Comments"
+msgstr "التعليقات الاحدث"
+
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:21
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: functions.php:65
+msgid "expand child menu"
+msgstr "توسيع القائمة الابن"
+
+#: functions.php:66
+msgid "collapse child menu"
+msgstr "تصغير القائمة الابن"
+
+#: functions.php:104
+msgid "Primary Navigation"
+msgstr "التنقل الاساسي"
+
+#: functions.php:105
+msgid "Social Navigation"
+msgstr "التنقل الاجتماعي"
+
+#: functions.php:117
+msgid "Primary Sidebar"
+msgstr "الشريط الجانبي الاولي"
+
+#: functions.php:126
+msgid "Secondary Sidebar"
+msgstr "الشريط الجانبي الثانوي"
+
+#: functions.php:135
+msgid "Custom Sidebar"
+msgstr "شريط جانبي مخصص"
+
+#: header.php:32
+msgid "Search"
+msgstr "بحث"
+
+#: header.php:50
+msgid "Menu"
+msgstr "قائمة"
+
+#: includes/template-tags.php:49
+#, php-format
+msgid "View all posts by %s"
+msgstr "مشاهدة جميع المشاركات بواسطة %s"
+
+#: includes/template-tags.php:55
+msgid "Leave a Comment"
+msgstr "اترك تعليقا"
+
+#: includes/template-tags.php:66 includes/template-tags.php:67
+msgid " | "
+msgstr " | "
+
+#: includes/template-tags.php:71
+msgid "<i class=\"fa fa-folder-open-o\"></i> Posted In"
+msgstr "نشر في <i class=\"fa-fa-folder-open-o\"></i>"
+
+#: includes/template-tags.php:78
+msgid "<i class=\"fa fa-tags\"></i> Tagged"
+msgstr "موسومة <i class=\"fa-fa-tags\"></i>"
+
+#: includes/template-tags.php:120
+msgid "Previous"
+msgstr "السابق"
+
+#: includes/template-tags.php:121
+msgid "Next"
+msgstr "التالي"
+
+#: search.php:26
+msgid "Search for: <small>"
+msgstr "البحث عن: <small>"
+
+#: template-parts/content-none.php:20
+msgid "Page Not Available"
+msgstr "الصفحة غير متاحة"
+
+#: template-parts/content-none.php:22
+msgid "Nothing found for: <small>"
+msgstr "لا يوجد أي شيء عن : <small>"
+
+#: template-parts/content-none.php:24
+msgid "Nothing Found"
+msgstr "لم يتم ايجاد اي شيء"
+
+#: template-parts/content-none.php:31
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "جاهز لنشر اول بوست لك؟ <a href=\"%1$s\">ابدأ هنا </a>"
+
+#: template-parts/content-none.php:33
+#, php-format
+msgid ""
+"You tried going to %s, which doesn't exist, so that means I probably broke "
+"something."
+msgstr "أنت تحاول الذهاب إلى %s, التي لا توجد, وهذا يعني أن شيء ما لا يعمل."
+
+#: template-parts/content-none.php:36
+msgid ""
+"Nothing matched your search terms. Check out the most recent articles below "
+"or try searching for something else:"
+msgstr ""
+"لا شيء يطابق بحثك. تحقق من أحدث المواضيع في الأسفل أو حاول البحث عن شيء آخر:"
+
+#: template-parts/content-none.php:39
+msgid ""
+"It seems we cannot find what you are looking for. Perhaps searching can help."
+msgstr "يبدو أننا لا نستطيع العثور عما تبحث عنه. ربما البحث قد يساعد."
+
+#: template-parts/content-none.php:46
+msgid "Most Recent Posts"
+msgstr "المواضيع الأحدث"
+
+#. Theme Name of the plugin/theme
+msgid "Beyond Expectations"
+msgstr "Beyond Expectations"
+
+#. Theme URI of the plugin/theme
+msgid "http://lumiathemes.com/portfolio/beyond-expectations/"
+msgstr "http://lumiathemes.com/portfolio/beyond-expectations/"
+
+#. Description of the plugin/theme
+msgid ""
+"Beyond Expectations is  responsive theme that comes with custom sidebar and "
+"full width without no sidebar. Custom Background and Header is available."
+msgstr ""
+"Beyond Expectation هو قالب تفاعلي الذي يأتي مع شريط جانبي مخصص وعرض كامل "
+"بدون شريط جانبي. خلفية مخصصة ورأس متاح."
+
+#. Author of the plugin/theme
+msgid "Benjamin Lu"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://lumiathemes.com/"
+msgstr ""

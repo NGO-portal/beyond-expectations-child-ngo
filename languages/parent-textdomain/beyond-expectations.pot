@@ -1,0 +1,177 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Beyond Expectations\n"
+"POT-Creation-Date: 2016-08-08 20:07+0200\n"
+"PO-Revision-Date: 2016-08-08 20:06+0200\n"
+"Last-Translator: George Bredberg <george@bona.nu>\n"
+"Language-Team: George Bredberg <george@bona.nu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:46
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Newer Comments"
+msgstr ""
+
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:21
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: functions.php:65
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:66
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:104
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:105
+msgid "Social Navigation"
+msgstr ""
+
+#: functions.php:117
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:126
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: functions.php:135
+msgid "Custom Sidebar"
+msgstr ""
+
+#: header.php:32
+msgid "Search"
+msgstr ""
+
+#: header.php:50
+msgid "Menu"
+msgstr ""
+
+#: includes/template-tags.php:49
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: includes/template-tags.php:55
+msgid "Leave a Comment"
+msgstr ""
+
+#: includes/template-tags.php:66 includes/template-tags.php:67
+msgid " | "
+msgstr ""
+
+#: includes/template-tags.php:71
+msgid "<i class=\"fa fa-folder-open-o\"></i> Posted In"
+msgstr ""
+
+#: includes/template-tags.php:78
+msgid "<i class=\"fa fa-tags\"></i> Tagged"
+msgstr ""
+
+#: includes/template-tags.php:120
+msgid "Previous"
+msgstr ""
+
+#: includes/template-tags.php:121
+msgid "Next"
+msgstr ""
+
+#: search.php:26
+msgid "Search for: <small>"
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid "Page Not Available"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid "Nothing found for: <small>"
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:31
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:33
+#, php-format
+msgid ""
+"You tried going to %s, which doesn't exist, so that means I probably broke "
+"something."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"Nothing matched your search terms. Check out the most recent articles below "
+"or try searching for something else:"
+msgstr ""
+
+#: template-parts/content-none.php:39
+msgid ""
+"It seems we cannot find what you are looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-none.php:46
+msgid "Most Recent Posts"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Beyond Expectations"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://lumiathemes.com/portfolio/beyond-expectations/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Beyond Expectations is  responsive theme that comes with custom sidebar and "
+"full width without no sidebar. Custom Background and Header is available."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Benjamin Lu"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://lumiathemes.com/"
+msgstr ""

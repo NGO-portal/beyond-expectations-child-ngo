@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Beyond Expectations\n"
+"POT-Creation-Date: 2016-08-08 20:07+0200\n"
+"PO-Revision-Date: 2016-09-20 18:35+0200\n"
+"Language-Team: George Bredberg <george@bona.nu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: George Bredberg <george@bona.nu>\n"
+"Language: sv_SE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "En kommentar"
+msgstr[1] "%1$s kommentarer"
+
+#: comments.php:46
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:47
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:21
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: functions.php:65
+msgid "expand child menu"
+msgstr "expandera barnmenyn"
+
+#: functions.php:66
+msgid "collapse child menu"
+msgstr "Minimera meny"
+
+#: functions.php:104
+msgid "Primary Navigation"
+msgstr "Huvudnavigering"
+
+#: functions.php:105
+msgid "Social Navigation"
+msgstr "Social navigering"
+
+#: functions.php:117
+msgid "Primary Sidebar"
+msgstr "Huvudsidmeny"
+
+#: functions.php:126
+msgid "Secondary Sidebar"
+msgstr "Sekundär sidopanel"
+
+#: functions.php:135
+msgid "Custom Sidebar"
+msgstr "Anpassat sidofält"
+
+#: header.php:32
+msgid "Search"
+msgstr "Sök"
+
+#: header.php:50
+msgid "Menu"
+msgstr "Meny"
+
+#: includes/template-tags.php:49
+#, php-format
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#: includes/template-tags.php:55
+msgid "Leave a Comment"
+msgstr "Lämna en kommentar"
+
+#: includes/template-tags.php:66 includes/template-tags.php:67
+msgid " | "
+msgstr "|"
+
+#: includes/template-tags.php:71
+msgid "<i class=\"fa fa-folder-open-o\"></i> Posted In"
+msgstr "<i class=\"fa fa-folder-open-o\"></i>Postat i"
+
+#: includes/template-tags.php:78
+msgid "<i class=\"fa fa-tags\"></i> Tagged"
+msgstr "<i class=\"fa fa-tags\"></i> Taggad"
+
+#: includes/template-tags.php:120
+msgid "Previous"
+msgstr "Föregående"
+
+#: includes/template-tags.php:121
+msgid "Next"
+msgstr "Nästa"
+
+#: search.php:26
+msgid "Search for: <small>"
+msgstr "Sök efter:<small>"
+
+#: template-parts/content-none.php:20
+msgid "Page Not Available"
+msgstr "Sidan inte tillgänglig"
+
+#: template-parts/content-none.php:22
+msgid "Nothing found for: <small>"
+msgstr "Inga sökresultat för: <small>"
+
+#: template-parts/content-none.php:24
+msgid "Nothing Found"
+msgstr "Ingenting hittades"
+
+#: template-parts/content-none.php:31
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Är du redo att posta ditt första inlägg? <a href=”%1$s”>Börja här</a>."
+
+#: template-parts/content-none.php:33
+#, php-format
+msgid ""
+"You tried going to %s, which doesn't exist, so that means I probably broke "
+"something."
+msgstr "Du försökte gå till %s, som inte finns. Prova en sökning?"
+
+#: template-parts/content-none.php:36
+msgid ""
+"Nothing matched your search terms. Check out the most recent articles below "
+"or try searching for something else:"
+msgstr ""
+"Ingenting matchade dina söktermer. Kolla in de senaste artiklarna nedan "
+"eller sök efter något annat:"
+
+#: template-parts/content-none.php:39
+msgid ""
+"It seems we cannot find what you are looking for. Perhaps searching can help."
+msgstr ""
+"Det verkar som att vi inte kan hitta vad du söker efter. Kanske en sökning "
+"kan hjälpa?"
+
+#: template-parts/content-none.php:46
+msgid "Most Recent Posts"
+msgstr "Senaste blogginläggen."
+
+#. Theme Name of the plugin/theme
+msgid "Beyond Expectations"
+msgstr "Beyond Expectations"
+
+#. Theme URI of the plugin/theme
+msgid "http://lumiathemes.com/portfolio/beyond-expectations/"
+msgstr "http://lumiathemes.com/Portfolio/Beyond-expectations/"
+
+#. Description of the plugin/theme
+msgid ""
+"Beyond Expectations is  responsive theme that comes with custom sidebar and "
+"full width without no sidebar. Custom Background and Header is available."
+msgstr ""
+"Beyond Expectations är ett responsivt tema som kommer med en anpassad "
+"sidomeny och en fullbreddssida utan sidomeny. Du kan använda en anpassad "
+"bakgrund och ett anpassat sidhuvud."
+
+#. Author of the plugin/theme
+msgid "Benjamin Lu"
+msgstr "Benjamin Lu"
+
+#. Author URI of the plugin/theme
+msgid "http://lumiathemes.com/"
+msgstr "http://lumiathemes.com/"

@@ -1,0 +1,57 @@
+/*
+Theme Name:         Beyond-expectations-child-NGO
+Theme URI:          http://föreningsportalen.se
+Description:        A WordPress child theme to Beyond Expectations for NGO-portal NGO-sites
+Author:             George Bredberg
+Author Email:       george@bona.nu
+Author URI:         http://föreningsportalen.se
+Template:           beyond-expectations
+Version:            1.0.2
+License:            GNU General Public License v2 or later
+License URI:        http://www.gnu.org/licenses/gpl-2.0.html
+Tags:               Beyond expectations, responsive, one-column, two-columns, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, sticky-post, threaded-comments, translation-ready
+Text Domain:        beyond-expectations-child-ngo
+Domain Path: 				/languages/
+*/
+
+.content-area {
+    float: left;
+    width: 70%;
+}
+
+.entry-content-container{
+/*margin-top: 25px;*/
+margin-left: 0;	
+	}
+
+.entry-content {
+    float: left;
+    width: 78.95238095238095%;
+}
+
+.entry-info {
+	float: left;
+    /*margin-top: 10px;*/
+	margin-left: 10px;
+	width:25%;
+}
+
+.entry-info p {
+    font-weight: 300;
+    line-height: 18px;
+    margin: 0 0 0 0;
+    padding: 0;
+}
+
+.widget-area {
+    float: right;
+    width: 30%;
+}
+
+.widget_actors a { font-size: 0.85em; color: #333333; display: block; text-decoration: none; }
+.widget_actors a:hover { color: #e74c3c; }
+
+li.top-navigation
+{
+	display: inline;	
+}

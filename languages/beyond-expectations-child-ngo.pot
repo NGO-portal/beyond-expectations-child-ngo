@@ -1,0 +1,136 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Beyond-expectations-child-NGO\n"
+"POT-Creation-Date: 2016-09-20 18:21+0200\n"
+"PO-Revision-Date: 2016-08-04 16:45+0200\n"
+"Last-Translator: George Bredberg <george@bona.nu>\n"
+"Language-Team: George Bredberg <george@bona.nu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: archive-concert.php:12
+msgid "Concerts"
+msgstr ""
+
+#: archive-concert.php:39 archive-production.php:37 single-concert.php:53
+#: single-production.php:53
+msgid "Premiere"
+msgstr ""
+
+#: archive-concert.php:43 archive-production.php:41
+msgid "Ends"
+msgstr ""
+
+#: archive-concert.php:47 single-concert.php:65
+msgid "Number of gigs"
+msgstr ""
+
+#: archive-concert.php:49 archive-production.php:47 single-concert.php:69
+#: single-production.php:69
+msgid "Venues"
+msgstr ""
+
+#: archive-concert.php:56 archive-production.php:54
+msgid "Read More"
+msgstr ""
+
+#: archive-production.php:13
+msgid "Theater productions"
+msgstr ""
+
+#: archive-production.php:45 single-production.php:65
+msgid "Number of performances"
+msgstr ""
+
+#: footer.php:24
+msgid "Copyright"
+msgstr ""
+
+#: header.php:35
+msgid "Search"
+msgstr ""
+
+#: header.php:40 header.php:41
+msgid "NGO-list"
+msgstr ""
+
+#: header.php:44 header.php:45
+msgid "Login"
+msgstr ""
+
+#: header.php:65
+msgid "Menu"
+msgstr ""
+
+#: single-concert.php:47 single-production.php:47
+msgid "Information"
+msgstr ""
+
+#: single-concert.php:59
+msgid "Last gig"
+msgstr ""
+
+#: single-concert.php:72 single-production.php:72
+msgid "Category"
+msgstr ""
+
+#: single-concert.php:76
+msgid "Musicians"
+msgstr ""
+
+#: single-concert.php:82 single-production.php:82
+msgid "Other coworkers"
+msgstr ""
+
+#: single-concert.php:88 single-production.php:88
+msgid "Buy tickets here"
+msgstr ""
+
+#: single-production.php:59
+msgid "Last performance"
+msgstr ""
+
+#: single-production.php:76
+msgid "Actors"
+msgstr ""
+
+#: taxonomy-concert_musicians.php:42
+msgid "Plays in"
+msgstr ""
+
+#: taxonomy-concert_scenes.php:42 taxonomy-production_scenes.php:42
+msgid "Performed here"
+msgstr ""
+
+#: taxonomy-production_actors.php:44
+msgid "Performs in"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Beyond-expectations-child-NGO"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://föreningsportalen.se"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A WordPress child theme to Beyond Expectations for NGO-portal NGO-sites"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "George Bredberg"
+msgstr ""
