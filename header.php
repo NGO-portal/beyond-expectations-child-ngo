@@ -28,7 +28,7 @@ header("X-New-Header: test");
 		<?php wp_head(); ?>
 	</head>
 <body <?php body_class(); ?>>
-<center><?php if( function_exists( 'adrotate_group' ) ) { echo adrotate_group(1); } ?></center>
+<?php if( function_exists( 'adrotate_group' ) ) { echo "<center>" . adrotate_group(1) . "</center>"; } ?>
 	<div id="social-search" class="social-search">
 		<nav class="align-center">
 			<div class="social-navigation cf">
@@ -37,11 +37,14 @@ header("X-New-Header: test");
 					<a href ="#search-container" class="screen-reader-text cf"><?php _e('Search', 'beyond-expectations'); ?></a>
 				</div>
 				<!-- NGO-portal navigation icons -->
-				<?php get_net_site_url( $net_url ); ?>
+				<?php
+					get_net_site_url( $net_url );
+					$sitelist = ngob_get_sitelist_slug();
+				?>
 				<ul style=list-style-type: none;>
-					<li class="top-navigation"><a href= <?php echo $net_url; ?>/foreningslista/>
-						<i class="fa fa-external-link" aria-hidden="true" title="<?php _e('NGO-list','beyond-expectations-child-ngo');?>"></i>
-						<span class="screen-reader-text"><?php _e("NGO-list", "beyond-expectations-child-ngo");?>:</span>
+					<li class="top-navigation"><a href= <?php echo $net_url; ?>/<?php if( !empty( $sitelist ) ) { echo $sitelist; } ?>>
+						<i class="fa fa-external-link" aria-hidden="true" title="<?php _e('Site-list','beyond-expectations-child-ngo');?>"></i>
+						<span class="screen-reader-text"><?php _e("Site-list", "beyond-expectations-child-ngo");?>:</span>
 					</a></li>
 					<li class="top-navigation"><a href=<?php bloginfo('url'); ?>/wp-admin/>
 						<i class="fa fa-edit" aria-hidden="true" title="<?php _e("Login","beyond-expectations-child-ngo");?>"></i>
